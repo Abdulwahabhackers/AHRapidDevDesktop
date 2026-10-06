@@ -55,7 +55,7 @@
 
 ### الطريقة 1: نسخة جاهزة (للمستخدمين)
 
-1. حمّل أحدث إصدار من [Releases](../../releases)
+1. حمّل أحدث إصدار من [Releases] https://github.com/Abdulwahabhackers/AHRapidDevDesktop/releases/download/v1.0.0/AH-RapidDev-Setup-v1.0.0.exe
 2. فك الضغط
 3. شغّل `AH RapidDev.exe`
 4. اختر **"نعم، أنشئ الاختصار"** من أول نافذة
