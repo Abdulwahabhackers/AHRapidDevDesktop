@@ -1,0 +1,39 @@
+# ============ Kotlin / Gradle ============
+.gradle/
+build/
+!gradle/wrapper/gradle-wrapper.jar
+.kotlin/
+captures/
+.externalNativeBuild/
+.cxx/
+
+# ============ Android Studio / IntelliJ ============
+.idea/
+*.iml
+*.ipr
+*.iws
+out/
+
+# ============ Local config ============
+local.properties
+
+# ============ Logs & OS ============
+*.log
+.DS_Store
+Thumbs.db
+
+# ============ Compiled files ============
+*.class
+*.jar
+!gradle/wrapper/gradle-wrapper.jar
+*.war
+*.ear
+
+# ============ Desktop builds ============
+desktopApp/build/
+desktopApp/out/
+
+# ============ Misc ============
+fleet/
+.vscode/
+!.vscode/settings.json
